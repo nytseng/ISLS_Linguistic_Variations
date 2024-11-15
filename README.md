@@ -4,6 +4,8 @@ Evaluating Multilingual Large Language Models Using Linguistic Variations In Mul
 ## 6 Linguistic Variations that we identified
 <img width="885" alt="Screenshot 2024-11-15 at 3 29 05 PM" src="https://github.com/user-attachments/assets/a547bf94-092d-4f1d-b0ea-a2d95ccf27b5">
 
+Synthetically generated variations (n=200) available in eval_datasets.zip
 
+## Other sources
 [Original datasets](https://github.com/asr9koa/Code-switching-lak) from previous work
 
