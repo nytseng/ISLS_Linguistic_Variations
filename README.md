@@ -3,8 +3,7 @@
 
 🚩 Accepted by ISLS 2025!
 
-<a href='https://arxiv.org/pdf/2412.03017'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
-
+[Paper](https://www.researchgate.net/publication/392690110_Evaluating_Language_Models_Using_Linguistic_Variations_in_Multilingual_Learners'_Writing_A_Teacher_Study)
 
 [Kaycie Barron](https://scholar.google.com/citations?hl=zh-CN&tzom=-480&user=ZCDjTn8AAAAJ)<sup>1</sup>
 | [Nora Tseng](https://scholar.google.com/citations?user=A-U8zE8AAAAJ&hl=zh-CN)<sup>1</sup> | 
